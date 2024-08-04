@@ -1,0 +1,22 @@
+.text{
+   background-color:gray;
+   height: 10vh;
+   text-align: center;
+   text-transform: capitalize;
+   color: white;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+}
+
+.cric{
+    width: 12rem;
+    height: 2.5rem;
+    background-color: blueviolet;
+    color: white;
+    font-weight: 600;
+    margin-right: 12px;
+    cursor: pointer;
+}
